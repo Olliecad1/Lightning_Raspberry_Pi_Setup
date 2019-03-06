@@ -7,4 +7,4 @@ Install [Guide](https://github.com/Olliecad1/Lightning_Raspberry_Pi_Setup/blob/m
 
 Check out this guide on running the [lightning node](https://github.com/ElementsProject/lightning#starting-lightningd) 
 
-Check out these list of commands [commands](https://github.com/ElementsProject/lightning#listing-all-commands)
+Check out these list of [commands](https://github.com/ElementsProject/lightning#listing-all-commands)
